@@ -1,1 +1,2 @@
-1. 
+data preparation until 5th of May 2023
+data understanding and data import
